@@ -1,7 +1,0 @@
-twitchio==2.3.0
-selenium
-webdriver-manager
-speechrecognition
-sounddevice
-numpy
-requests
