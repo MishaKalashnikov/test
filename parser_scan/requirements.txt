@@ -1,0 +1,6 @@
+selenium
+easyocr
+pandas
+pillow
+opencv-python
+openpyxl
