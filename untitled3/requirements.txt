@@ -1,0 +1,9 @@
+selenium
+selenium-wire
+webdriver-manager
+easyocr
+torch
+torchvision
+pandas
+pillow
+numpy
