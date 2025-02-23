@@ -1,0 +1,67 @@
+2025-02-23 23:52:11 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+2025-02-23 23:52:21 [INFO] ====== WebDriver manager ======
+2025-02-23 23:52:35 [INFO] Get LATEST chromedriver version for google-chrome
+2025-02-23 23:52:36 [INFO] Get LATEST chromedriver version for google-chrome
+2025-02-23 23:52:36 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-23 23:57:51 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+2025-02-23 23:57:59 [INFO] ====== WebDriver manager ======
+2025-02-23 23:58:03 [INFO] Get LATEST chromedriver version for google-chrome
+2025-02-23 23:58:04 [INFO] Get LATEST chromedriver version for google-chrome
+2025-02-23 23:58:04 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-23 23:58:09 [INFO] \u2705 Успешно подключен к браузеру.
+2025-02-23 23:58:09 [INFO] \U0001f50d Переход на страницу: https://x.com/search?q=CEO&src=typeahead_click&f=user
+2025-02-23 23:59:26 [INFO] \U0001f504 Прокрутка 1 (Собрано: 0/120)
+2025-02-23 23:59:59 [INFO] \U0001f4cc Найден @username: @CEOMyGovIndia
+2025-02-23 23:59:59 [INFO] \U0001f4cc Найден @username: @TK_Nguyen
+2025-02-23 23:59:59 [INFO] \U0001f4cc Найден @username: @GAMesportsVN
+2025-02-23 23:59:59 [INFO] \U0001f4cc Найден @username: @KateMonroeCEO
+2025-02-23 23:59:59 [INFO] \U0001f4cc Найден @username: @tokenCEO
+2025-02-23 23:59:59 [INFO] \U0001f4cc Найден @username: @erika
+2025-02-23 23:59:59 [INFO] \U0001f4cc Найден @username: @BarstoolSports CEO:
+2025-02-23 23:59:59 [INFO] \U0001f4cc Найден @username: @ceo_bloc
+2025-02-23 23:59:59 [INFO] \U0001f4cc Найден @username: @Hideki_Naganuma
+2025-02-23 23:59:59 [INFO] \U0001f4cc Найден @username: @AJCCEO
+2025-02-23 23:59:59 [INFO] \U0001f4cc Найден @username: @AlainGirard101
+2025-02-23 23:59:59 [INFO] \U0001f504 Прокрутка 2 (Собрано: 11/120)
+2025-02-24 00:00:20 [INFO] \U0001f4cc Найден @username: @Diffusis
+2025-02-24 00:00:20 [INFO] \U0001f4cc Найден @username: @Iam360Wise
+2025-02-24 00:00:20 [INFO] \U0001f4cc Найден @username: @RealShadyy
+2025-02-24 00:00:20 [INFO] \U0001f4cc Найден @username: @SoniaBEKO
+2025-02-24 00:00:20 [INFO] \U0001f4cc Найден @username: @Renaissance
+2025-02-24 00:00:20 [INFO] \U0001f4cc Найден @username: @PatrickBagina
+2025-02-24 00:00:20 [INFO] \U0001f4cc Найден @username: @Naveen_Jain_CEO
+2025-02-24 00:00:20 [INFO] \U0001f4cc Найден @username: @MarkRaganCEO
+2025-02-24 00:00:20 [INFO] \U0001f4cc Найден @username: @FuegoCEO
+2025-02-24 00:00:20 [INFO] \U0001f504 Прокрутка 3 (Собрано: 20/120)
+2025-02-24 00:00:35 [INFO] \U0001f5d1\ufe0f Все временные скриншоты удалены.
+2025-02-24 00:00:36 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)': /session/deca6fd63ca7a38586ce5d4a5fd46c98
+2025-02-24 00:04:13 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+2025-02-24 00:04:16 [INFO] ====== WebDriver manager ======
+2025-02-24 00:04:18 [INFO] Get LATEST chromedriver version for google-chrome
+2025-02-24 00:04:18 [INFO] Get LATEST chromedriver version for google-chrome
+2025-02-24 00:04:19 [INFO] Get LATEST chromedriver version for google-chrome
+2025-02-24 00:04:19 [INFO] WebDriver version 133.0.6943.126 selected
+2025-02-24 00:04:19 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.126/win32/chromedriver-win32.zip
+2025-02-24 00:04:19 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.126/win32/chromedriver-win32.zip
+2025-02-24 00:04:20 [INFO] Driver downloading response is 200
+2025-02-24 00:04:21 [INFO] Get LATEST chromedriver version for google-chrome
+2025-02-24 00:04:22 [INFO] Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\chromedriver\win64\133.0.6943.126]
+2025-02-24 00:04:26 [INFO] \u2705 Успешно подключен к браузеру.
+2025-02-24 00:04:26 [INFO] \U0001f50d Переход на страницу: https://x.com/search?q=CEO&src=typeahead_click&f=user
+2025-02-24 00:04:32 [INFO] \U0001f504 Прокрутка 1 (Собрано: 0/120)
+2025-02-24 00:05:03 [INFO] \U0001f4cc Найден @username: @Investments_CEO
+2025-02-24 00:05:03 [INFO] \U0001f4cc Найден @username: @CEOGuy_
+2025-02-24 00:05:03 [INFO] \U0001f4cc Найден @username: @ChainGPT_Labs
+2025-02-24 00:05:03 [INFO] \U0001f4cc Найден @username: @ChainGPT_Pad
+2025-02-24 00:05:03 [INFO] \U0001f4cc Найден @username: @BrandonKHill
+2025-02-24 00:05:03 [INFO] \U0001f4cc Найден @username: @ceosa_co
+2025-02-24 00:05:03 [INFO] \U0001f4cc Найден @username: @Jgrul aujell aloll u6
+2025-02-24 00:05:03 [INFO] \U0001f4cc Найден @username: @ekramymoe oslwy @thechairman_sa
+2025-02-24 00:05:03 [INFO] \U0001f4cc Найден @username: @ceo_pencepunter
+2025-02-24 00:05:03 [INFO] \U0001f4cc Найден @username: @xdevlet
+2025-02-24 00:05:03 [INFO] \U0001f4cc Найден @username: @CEO_of_DA
+2025-02-24 00:05:03 [INFO] \U0001f4cc Найден @username: @AlainGirard101
+2025-02-24 00:05:03 [INFO] \U0001f504 Прокрутка 2 (Собрано: 12/120)
+2025-02-24 00:05:20 [INFO] \U0001f5d1\ufe0f Все временные скриншоты удалены.
+2025-02-24 00:05:20 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)': /session/82ec638780393d64944f4b1c3816796b
+2025-02-24 00:05:24 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001699C51E990>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/82ec638780393d64944f4b1c3816796b
