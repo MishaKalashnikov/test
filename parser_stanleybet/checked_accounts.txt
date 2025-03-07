@@ -1,0 +1,37 @@
+mira123ful@gmail.com: 0,00 LEI LEI
+✅ mira123ful@gmail.com успешно обработан.
+Общая ошибка: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01160B43+25139]
+	(No symbol) [0x010F13F4]
+	(No symbol) [0x00FD04E3]
+	(No symbol) [0x010183D7]
+	(No symbol) [0x0101872B]
+	(No symbol) [0x01061002]
+	(No symbol) [0x0103D014]
+	(No symbol) [0x0105E778]
+	(No symbol) [0x0103CDC6]
+	(No symbol) [0x0100BDE9]
+	(No symbol) [0x0100D124]
+	GetHandleVerifier [0x01464373+3185251]
+	GetHandleVerifier [0x0148291A+3309578]
+	GetHandleVerifier [0x0147CF42+3286578]
+	GetHandleVerifier [0x011F7AE0+643536]
+	(No symbol) [0x010FA20D]
+	(No symbol) [0x010F70B8]
+	(No symbol) [0x010F7257]
+	(No symbol) [0x010E9E00]
+	BaseThreadInitThunk [0x7504FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770482AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7704827E+238]
+
+
+🧹 Очищаем куки и данные хранилища...
+💰 Баланс для Dyoda: 0,09 LEI
+✅ Ожидаемых выводов средств НЕТ для Dyoda.
+Выбрана сумма пополнения 200 LEI.
+Пополнение подтверждено.
+3) Привязанная карта не найдена.
+
+🧹 Очищаем куки и данные хранилища...
+⚠ Не удалось получить баланс для mira123ful@gmail.com. Пропускаем аккаунт...
